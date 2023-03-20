@@ -14,5 +14,5 @@ if H ~= Hwid[table.find(Hwid,H)] then
     game.PLayers.LocalPlayer:Kick("Invild Hwid")
 
 else
-    
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/dukdik234/Bruhhhh/main/README.md"))()
 end
